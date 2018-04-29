@@ -383,9 +383,12 @@ label {
     letter-spacing: 4px;
     font-weight: 300;
     font-size: 13px;
-    margin: 40px 0;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 40%;
     position: relative;
     text-align: right;
+    background: rgba(0, 0, 0, 0.19);
 }
 
 .banner-text-info p:before {
